@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\skeleton_control.cs">
+    <Files>
+      <File FileName="Assets\Dungeon Art Pack\AnimateSprite.cs" Line="11" Column="22" />
+      <File FileName="Assets\Dungeon Art Pack\AnimateSprite.cs" Line="1" Column="1" />
+      <File FileName="Assets\skeleton_control.cs" Line="16" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
